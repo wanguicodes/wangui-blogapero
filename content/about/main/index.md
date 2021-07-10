@@ -9,7 +9,7 @@ intro: |
    <i class="fas fa-book-open"></i> Comprehensive [CV](~/WM_CV_2101.pdf) 
    <i class="fas fa-linkedin"></i> [Linkedin Page](https://www.linkedin.com/in/wangui-mbuguiro/) 
 
-show_outro: true
+show_outro: false
 #outro: |
 #  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a #coffee](https://ko-fi.com/)!
 ---
