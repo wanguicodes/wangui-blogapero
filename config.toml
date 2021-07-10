@@ -33,7 +33,8 @@ enableEmoji = true
   description = "Website for engineering researcher, Wangui Mbuguiro"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  #mainSections = ["blog", "project", "talk"]
+  mainSections = ["project","talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -93,6 +94,10 @@ enableEmoji = true
 #      icon      = "rss" # icon name without the 'fa-'
 #      icon_pack = "fas"
 #      url       = "/blog/index.xml"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/wangui-mbuguiro/"
 
 [taxonomies]
   category = "categories"
@@ -105,21 +110,21 @@ enableEmoji = true
     title = "About Blogophonic"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
+  #[[menu.header]]
+  #  name = "Blog"
+  #  title = "Blog"
+  #  url = "/blog/"
+  #  weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 3
     
   # Configure footer  
   [[menu.footer]]
