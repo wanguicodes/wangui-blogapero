@@ -15,4 +15,3 @@ LaTeX: XeLaTeX
 AutoAppendNewline: Yes
 
 BuildType: Website
-WebsitePath: ~/Documents/GitHub/rsites/wangui-blogapero
