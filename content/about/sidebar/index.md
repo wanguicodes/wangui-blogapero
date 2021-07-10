@@ -1,11 +1,11 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Wangui Mbuguiro"
-#role: "Biomedical Engineer"
+role: "pronouns: she/her/hers"
 #avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
+audio_link_label: "wuhng-GOY boo-goo-EH-row"
 link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
 - name: Computational Design of Therapeutics Lab
