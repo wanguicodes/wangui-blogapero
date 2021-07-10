@@ -1,11 +1,14 @@
 ---
 ## Configure page content in wide column
-title: "Resume & CV" # leave blank to exclude
+title: "Resume, CV, Linkedin" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-   <i class="fas fa-file"></i> Brief (1-page) [Resume](~/WM Resume 2010.pdf) 
+   <i class="fas fa-file"></i> 1-page [Resume](~/WM_Resume_2010.pdf) 
+   <i class="fas fa-book-open"></i> Comprehensive [CV](~/WM_CV_2101.pdf) 
+   <i class="fas fa-linkedin"></i> [Linkedin Page](https://www.linkedin.com/in/wangui-mbuguiro/) 
+
 show_outro: true
 #outro: |
 #  <i class="fas fa-mug-hot pr2"></i>If my blog has helped you, you can [buy me a #coffee](https://ko-fi.com/)!
