@@ -1,19 +1,19 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Emily Cooper"
-role: "Social media strategy @ Savoir"
-avatar_shape: rounded # circle, square, rounded
+author: "Wangui Mbuguiro"
+role: "pronouns: she/her/hers"
+#avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: true
-audio_link_label: "How to say my name"
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+audio_link_label: "wuhng-GOY boo-goo-EH-row"
+link_list_label: "Affiliations" # bookmarks, elsewhere, etc.
 link_list:
-- name: Paris
-  url: https://en.wikipedia.org/wiki/Paris
-- name: Pastries
-  url: https://en.wikipedia.org/wiki/Pastry
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Computational Design of Therapeutics Lab
+  url: https://macglab.icm.jhu.edu
+- name: Institute for Computational Medicine
+  url: https://icm.jhu.edu
+- name: Institute for NanoBioTechnology
+  url: https://inbt.jhu.edu
 ---
 
 ** index doesn't contain a body, just front matter above.
