@@ -8,6 +8,6 @@ This is Wangui Mbuguiro's website based on [**blogdown**](https://github.com/rst
 
 Useful links for creating a website: 
 
-- [Workshop by Alison Hill](https://www.youtube.com/watch?v=RksaNh5Ywbo&t=5545s), including [pre-workshop materials](https://iyo-rstudio-global.netlify.app/collection/prework/)
+- [Workshop by Dr. Alison Hill](https://www.youtube.com/watch?v=RksaNh5Ywbo&t=5545s), including [pre-workshop materials](https://iyo-rstudio-global.netlify.app/collection/prework/)
 - [Hugo Apero Documentation](https://hugo-apero-docs.netlify.app/start/)
 - [Happy Git and GitHub for the useR book](https://happygitwithr.com)
