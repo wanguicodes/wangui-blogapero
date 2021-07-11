@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://wangui.rbind.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Website of Wangui Mbuguiro"
