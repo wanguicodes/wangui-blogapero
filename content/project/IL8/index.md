@@ -20,7 +20,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Short Video
-  url: https://bakeoff.netlify.com/
+  url: https://www.youtube.com/watch?v=ch05ddj6Bso
 layout: single
 
 # layout options: single or single-sidebar
