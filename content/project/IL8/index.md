@@ -1,7 +1,7 @@
 ---
 title: "IL-8 Signaling on Neutrophils"
 subtitle: "Mechanistic Model Demonstrates Importance of Autocrine IL-8 Secretion by Neutrophils"
-excerpt: "In this study, we create, parameterize, and analyze a mechanistic model of IL-8 signaling on neutrophils using data from in vitro cell culture experiments."
+excerpt: "We create, parameterize, and analyze a mechanistic model of IL-8 signaling on neutrophils using data from in vitro cell culture experiments."
 date: 2021-07-20
 author: "Wangui Mbuguiro & Feilim Mac Gabhann"
 draft: false
@@ -9,14 +9,6 @@ tags:
   - Cytokines
   - Matlab
 links:
-- icon: file-alt
-  icon_pack: fas
-  name: Abstract
-  url: https://bakeoff.netlify.com/
-- icon: newspaper
-  icon_pack: fas
-  name: Poster
-  url: https://bakeoff.netlify.com/
 - icon: youtube
   icon_pack: fab
   name: Short Video
@@ -31,7 +23,10 @@ layout: single
 ---
 ## Abstract
 
-IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is involved in maintaining homeostasis and is implicated in a wide range of inflammatory disorders. IL-8 was initially understood to be produced by monocytes to induce neutrophil migration through binding surface receptors IL-8RA (CXCR1) and IL-8RB (CXCR2). Although neutrophil secretion of IL-8 has been reported as ranging from 0–10 molecules/cell/second, it is unclear how this may affect neutrophil activation. In this study, we create and parameterize a mechanistic model of IL-8 signaling using data from in vitro cell culture experiments. We use this model to estimate receptor internalization rates which had not been previously reported. Through sensitivity analyses and additional simulations, we find that neutrophil secretion regulates the level of IL-8RB available, especially in pM-range environments.
+IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is involved in maintaining homeostasis and is implicated in a wide range of inflammatory disorders. IL-8 was initially understood to be produced by monocytes to induce neutrophil migration through binding surface receptors IL-8RA (CXCR1) and IL-8RB (CXCR2). Although neutrophils secrete low levels of IL-8, it is unclear how this may affect neutrophil activation. In this study, we create and parameterize a mechanistic model of IL-8 signaling using data from in vitro cell culture experiments. We use this model to estimate receptor internalization rates which had not been previously reported. Through sensitivity analyses and additional simulations, we find that neutrophil secretion regulates the level of IL-8RB available, especially in pM-range environments.
+
+---
+## Presentations
 
 
 ---
