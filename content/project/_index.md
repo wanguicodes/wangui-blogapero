@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Project Portfolio
+description: "Abstracts and materials from my current and previous research."
+#author: "Wangui Mbuguiro"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -9,13 +9,13 @@ show_post_date: false
 layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
-sidebar: 
-  title: A Sidebar for Your Projects
-  description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+sidebar:
+  title: Project Sidebar
+#  description: |
+#    Projects can be anything!
+#    Check out the _index.md file in the /project folder
+#    to edit this content.
+#  author: "The R Markdown Team @RStudio"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
