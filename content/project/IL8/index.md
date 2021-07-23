@@ -11,7 +11,7 @@ tags:
 links:
 - icon: youtube
   icon_pack: fab
-  name: Short Video
+  name: Summary
   url: https://www.youtube.com/watch?v=ch05ddj6Bso
 layout: single
 
@@ -27,8 +27,16 @@ IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is invol
 
 ---
 ## Presentations
+<b>2021 → ACM Conference on Bioinformatics, Computational Biology and Biomedicine</b>
+<br />
+<iframe frameborder="0" scrolling="yes" width="320" height="240" src="ACM_poster.pdf"> </iframe>
+  <iframe width="320" height="240" src="https://www.youtube.com/embed/ch05ddj6Bso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-file-pdf"></i> Abstract](ACM_abstract.pdf) 
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-newspaper"></i> Poster](ACM_poster.pdf)
+<br />
+  
 ---
 ## About the Authors
 
