@@ -1,6 +1,6 @@
 ---
 title: Projects
-#description: "Materials from my current and previous research projects."
+#description: 
 #author: "Wangui Mbuguiro"
 show_post_thumbnail: true
 show_author_byline: true
