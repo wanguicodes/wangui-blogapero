@@ -9,6 +9,9 @@ tags:
   - Current Projects
   - Cytokines
   - Matlab
+Categories:
+  - Current Projects
+  - Matlab
 links:
 - icon: youtube
   icon_pack: fab
