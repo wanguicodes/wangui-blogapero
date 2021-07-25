@@ -8,6 +8,8 @@ draft: false
 tags:
   - Previous Projects
   - Hormones
+  - Endometriosis
+  - Adenomyosis
   - In vitro
   - Synthetic Biology
 Categories: 
@@ -34,12 +36,14 @@ layout: single
 ## Summary
 Affecting approximately 1 in 10 women, endometriosis is a disease caused by cells similar to the endometrium of the uterus growing elsewhere in the body. These growths, called endometrial lesions, cause severe chronic pain and infertility. Because the only definitive diagnostic method is laparoscopic surgery, patients wait on average seven years between the onset of symptoms and an accurate diagnosis. 
 <br />
+<br />
 The goal of the MIT iGEM team’s project is to expedite this diagnosis process with a genetic circuit that can sense the unique biomarkers of endometriosis. Our circuit identifies whether cells are diseased by checking the cells’ miRNA profiles and by sensing progesterone resistance, a hallmark of endometriosis. This identification process can be implemented in endometrial biopsy samples, eliminating the need for surgical diagnosis. Our approach could lead to a less invasive diagnostic method, enabling earlier treatment and improving patient outcomes.
 
 ---
 ## Presentations
+<b>2016 → International Genetically Engineered Machine Competition</b>
 
-  
+  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj3pY0HTWwgF9Nzn82IjfBYSpRjJZFJ8Drn62WYmCv-TqM8NdrIel9CjHyYLU2FpxyRqeLmHBODYxf/embed?start=false&loop=false&delayms=10000" frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ---
 
 
