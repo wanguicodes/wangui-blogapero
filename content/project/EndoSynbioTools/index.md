@@ -1,5 +1,5 @@
 ---
-title: "Diagnosing Endometriosis"
+title: "In Vitro Tools for Diagnosing Endometriosis"
 subtitle: "Synthetic biology tools for probing estrogen and progesterone signaling in endometriosis and adenomyosis"
 excerpt: "We built and characterized synthetic genetic sensors to assay estrogen and progesterone signalling, two processes that are often dysregulated or disrupted in endometriosis."
 date: 2018-07-20
