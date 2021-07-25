@@ -1,19 +1,24 @@
 ---
-title: "IL-8 Signaling on Neutrophils"
-subtitle: "Mechanistic Model Demonstrates Importance of Autocrine IL-8 Secretion by Neutrophils"
-excerpt: "We create, parameterize, and analyze a mechanistic model of IL-8 signaling on neutrophils using data from in vitro cell culture experiments."
+title: "Diagnosing Endometriosis"
+subtitle: "Synthetic biology tools for probing estrogen and progesterone signaling in endometriosis and adenomyosis"
+excerpt: "We built and characterized synthetic genetic sensors to assay estrogen and progesterone signalling, two processes that are often dysregulated or disrupted in endometriosis."
 date: 2021-07-20
-author: "Wangui Mbuguiro & Feilim Mac Gabhann"
+author: "Wangui Mbuguiro, Archis R Bhandarkar, Trinh Nguyen, Damon A Berman, Colleen R Foley, Elizabeth D Strand, Gizem Gumuskaya, Julia M Goupil, Kathleen H Brandes, Maya L Kaul, Sarah J Caso, Theresa Machemer, Linda Griffith, Ron Weiss, Brian Teague"
 draft: false
 tags:
   - Current Projects
   - Cytokines
   - Matlab
 links:
-- icon: youtube
-  icon_pack: fab
-  name: Summary
-  url: https://www.youtube.com/watch?v=ch05ddj6Bso
+- icon: wifi
+  icon_pack: fas
+  name: Website
+  url: http://2016.igem.org/Team:MIT
+links:
+- icon: newspaper
+  icon_pack: fa
+  name: MIT Undergraduate Research Journal
+  url: https://static1.squarespace.com/static/59ceeb4dbe42d658b88f836e/t/59d6c8a9cd0f68e30c0313d9/1507248321780/Machemer_MURJ_iGEM.pdf
 layout: single
 
 # layout options: single or single-sidebar
@@ -22,30 +27,18 @@ layout: single
 # ACM Poster: 21BCB_IL8-Poster_v4.pdf
 # Short Video: IL8-vid-v3-lq
 ---
-## Abstract
-
-IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is involved in maintaining homeostasis and is implicated in a wide range of inflammatory disorders. IL-8 was initially understood to be produced by monocytes to induce neutrophil migration through binding surface receptors IL-8RA (CXCR1) and IL-8RB (CXCR2). Although neutrophils secrete low levels of IL-8, it is unclear how this may affect neutrophil activation. In this study, we create and parameterize a mechanistic model of IL-8 signaling using data from in vitro cell culture experiments. We use this model to estimate receptor internalization rates which had not been previously reported. Through sensitivity analyses and additional simulations, we find that neutrophil secretion regulates the level of IL-8RB available, especially in pM-range environments.
+## Summary
+Affecting approximately 1 in 10 women, endometriosis is a disease caused by cells similar to the endometrium of the uterus growing elsewhere in the body. These growths, called endometrial lesions, cause severe chronic pain and infertility. Because the only definitive diagnostic method is laparoscopic surgery, patients wait on average seven years between the onset of symptoms and an accurate diagnosis. 
+<br />
+The goal of the MIT iGEM team’s project is to expedite this diagnosis process with a genetic circuit that can sense the unique biomarkers of endometriosis. Our circuit identifies whether cells are diseased by checking the cells’ miRNA profiles and by sensing progesterone resistance, a hallmark of endometriosis. This identification process can be implemented in endometrial biopsy samples, eliminating the need for surgical diagnosis. Our approach could lead to a less invasive diagnostic method, enabling earlier treatment and improving patient outcomes.
 
 ---
 ## Presentations
-<b>2021 → ACM Conference on Bioinformatics, Computational Biology and Biomedicine</b>
-<br />
-<iframe frameborder="0" scrolling="yes" width="320" height="240" src="ACM_poster.pdf"> </iframe>
-  <iframe width="320" height="240" src="https://www.youtube.com/embed/ch05ddj6Bso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-file-pdf"></i> Abstract](ACM_abstract.pdf) 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-newspaper"></i> Poster](ACM_poster.pdf)
-<br />
   
 ---
 ## About the Authors
 
-This project is being developed as part of my PhD, under the mentorship of Dr. Feilim Mac Gabhann. 
-
-<u>Affiliations:</u> 
-- <b>Wangui Mbuguiro:</b>  Department of Biomedical Engineering (Johns Hopkins University School of Medicine in Baltimore, MD), Institute for Computational Medicine (Johns Hopkins University in Baltimore, MD)
-- <b>Feilim Mac Gabhann:</b>  Department of Biomedical Engineering (Johns Hopkins University in Baltimore, MD), Institute for Computational Medicine (Johns Hopkins University in Baltimore, MD)
 
 ---
 
