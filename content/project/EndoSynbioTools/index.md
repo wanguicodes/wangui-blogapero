@@ -2,19 +2,23 @@
 title: "Diagnosing Endometriosis"
 subtitle: "Synthetic biology tools for probing estrogen and progesterone signaling in endometriosis and adenomyosis"
 excerpt: "We built and characterized synthetic genetic sensors to assay estrogen and progesterone signalling, two processes that are often dysregulated or disrupted in endometriosis."
-date: 2021-07-20
+date: 2018-07-20
 author: "Wangui Mbuguiro, Archis R Bhandarkar, Trinh Nguyen, Damon A Berman, Colleen R Foley, Elizabeth D Strand, Gizem Gumuskaya, Julia M Goupil, Kathleen H Brandes, Maya L Kaul, Sarah J Caso, Theresa Machemer, Linda Griffith, Ron Weiss, Brian Teague"
 draft: false
 tags:
-  - Current Projects
-  - Cytokines
-  - Matlab
+  - Previous Projects
+  - Hormones
+  - In vitro
+  - Synthetic Biology
+Categories: 
+  - Previous Projects
+  - Hormones
+  - In vitro
 links:
 - icon: wifi
   icon_pack: fas
   name: Website
   url: http://2016.igem.org/Team:MIT
-links:
 - icon: newspaper
   icon_pack: fa
   name: MIT Undergraduate Research Journal
@@ -37,9 +41,6 @@ The goal of the MIT iGEM team’s project is to expedite this diagnosis process 
 
   
 ---
-## About the Authors
 
-
----
 
 
