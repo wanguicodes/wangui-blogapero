@@ -1,6 +1,6 @@
 ---
 title: "In Vitro Tools for Diagnosing Endometriosis"
-subtitle: "Synthetic biology tools for probing estrogen and progesterone signaling in endometriosis and adenomyosis"
+subtitle: "Using synthetic biology to probe estrogen and progesterone signaling in endometriosis and adenomyosis"
 excerpt: "We built and characterized synthetic genetic sensors to assay estrogen and progesterone signalling, two processes that are often dysregulated or disrupted in endometriosis."
 date: 2018-07-20
 author: "Wangui Mbuguiro, Archis R Bhandarkar, Trinh Nguyen, Damon A Berman, Colleen R Foley, Elizabeth D Strand, Gizem Gumuskaya, Julia M Goupil, Kathleen H Brandes, Maya L Kaul, Sarah J Caso, Theresa Machemer, Linda Griffith, Ron Weiss, Brian Teague"
