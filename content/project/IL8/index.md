@@ -29,6 +29,10 @@ layout: single
 
 IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is involved in maintaining homeostasis and is implicated in a wide range of inflammatory disorders. IL-8 was initially understood to be produced by monocytes to induce neutrophil migration through binding surface receptors IL-8RA (CXCR1) and IL-8RB (CXCR2). Although neutrophils secrete low levels of IL-8, it is unclear how this may affect neutrophil activation. In this study, we create and parameterize a mechanistic model of IL-8 signaling using data from in vitro cell culture experiments. We use this model to estimate receptor internalization rates which had not been previously reported. Through sensitivity analyses and additional simulations, we find that neutrophil secretion regulates the level of IL-8RB available, especially in pM-range environments.
 
+This project is being developed as part of my PhD (2017-Present), under the mentorship of Dr. Feilim Mac Gabhann. 
+<br />
+<br />
+
 ---
 ## Presentations
 <b>2021 → ACM Conference on Bioinformatics, Computational Biology and Biomedicine</b>
@@ -40,15 +44,7 @@ IL-8 (CXCL8) is a potent chemoattractant and pro-angiogenic factor that is invol
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-newspaper"></i> Poster](ACM_poster.pdf)
 <br />
-  
----
-## About the Authors
 
-This project is being developed as part of my PhD, under the mentorship of Dr. Feilim Mac Gabhann. 
-
-<u>Affiliations:</u> 
-- <b>Wangui Mbuguiro:</b>  Department of Biomedical Engineering (Johns Hopkins University School of Medicine in Baltimore, MD), Institute for Computational Medicine (Johns Hopkins University in Baltimore, MD)
-- <b>Feilim Mac Gabhann:</b>  Department of Biomedical Engineering (Johns Hopkins University in Baltimore, MD), Institute for Computational Medicine (Johns Hopkins University in Baltimore, MD)
 
 ---
 
