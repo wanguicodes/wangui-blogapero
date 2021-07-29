@@ -34,7 +34,7 @@ enableEmoji = true
   favicon = "/img/wm-icon.ico"
   logo = "/img/wm-mark.png"
   #mainSections = ["blog", "project", "talk"]
-  mainSections = ["project","talk"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -116,7 +116,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "Overview of My Work"
     url = "/about/"
     weight = 1
   #[[menu.header]]
@@ -129,11 +129,11 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 3
     
   # Configure footer  
   [[menu.footer]]
