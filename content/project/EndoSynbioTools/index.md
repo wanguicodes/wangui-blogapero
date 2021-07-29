@@ -23,7 +23,7 @@ links:
   url: http://2016.igem.org/Team:MIT
 - icon: newspaper
   icon_pack: fa
-  name: MIT Undergraduate Research Journal
+  name: News
   url: https://static1.squarespace.com/static/59ceeb4dbe42d658b88f836e/t/59d6c8a9cd0f68e30c0313d9/1507248321780/Machemer_MURJ_iGEM.pdf
 layout: single
 
