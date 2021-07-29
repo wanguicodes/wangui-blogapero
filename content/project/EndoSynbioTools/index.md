@@ -44,6 +44,8 @@ The goal of the MIT iGEM team’s project is to expedite this diagnosis process 
 <b>2016 → International Genetically Engineered Machine Competition</b>
 
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRj3pY0HTWwgF9Nzn82IjfBYSpRjJZFJ8Drn62WYmCv-TqM8NdrIel9CjHyYLU2FpxyRqeLmHBODYxf/embed?start=false&loop=false&delayms=10000" frameborder="0" width="640" height="480" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+  <br />
+  
 ---
 
 
