@@ -10,12 +10,12 @@ $spc-test: #FF725C; // orange pink color for testing changes
 $white: #FFFFFF;
 
 // cool palette
-$spc-bg: #fffbf2; // formerly #F5F5F5, #fffcf7, fffbf5
-$spc-bg-dark: #FAF0E3; // formerly #EBEBEB, #FBEBDA
-$spc-primary: #00421e; // formerly (#002642), #122140, 1C304A, 002642
-$spc-primary-light: #377861 ; // formerly (#2E4963), #475269, 32415A, 2E4963
-$spc-secondary: #A23E02; // formerly #936C10, 815E0E, b04303
-$spc-secondary-light: #936c10;
+$spc-bg: #f5f5f5 ; // formerly (#fffbf2), #F5F5F5, #fffcf7, fffbf5
+$spc-bg-dark: #EEEEEE ; // formerly (#FAF0E3), #EBEBEB, #FBEBDA
+$spc-primary: #001B44 ; // formerly (#002642), #122140, 1C304A, 002642
+$spc-primary-light: #555555 ; // formerly (#2E4963), #475269, 32415A, 2E4963
+$spc-secondary: #a89b77; // formerly  #b5a77f, (#A23E02), #936C10, 815E0E, b04303
+$spc-secondary-light: #948769;
 
 // other highlight options
 // terra: A44200*
@@ -24,11 +24,11 @@ $spc-secondary-light: #936c10;
 // set custom hex colors
 $siteBgColorCustom: $spc-bg;                   // site background
 $textColorCustom: $spc-primary-light;          // all text, including headings
-$bodyLinkColorCustom: $spc-secondary;          // main body links/anchors
+$bodyLinkColorCustom: $spc-secondary-light;          // main body links/anchors , previously: $spc-secondary
 
 $sidebarBgColorCustom: $spc-bg-dark;           // sidebar background
 $sidebarTextColorCustom: $spc-primary-light;   // text in sidebar
-$sidebarLinkColorCustom: $spc-primary-light;   // links in sidebar
+$sidebarLinkColorCustom: $spc-secondary-light;   // links in sidebar
 
 $headlineColorCustom: $spc-primary;            // headline & name in About, event detail text
 $headingColorCustom: $spc-primary;             // headings (in browser only)
