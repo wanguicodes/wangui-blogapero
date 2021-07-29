@@ -2,7 +2,7 @@
 ## Configure page content in wide column
 title: "My Resume, CV, etc." # leave blank to exclude
 number_featured: 2 # pulling from mainSections in config.toml
-number_categories: 2 # set to zero to exclude
+number_categories: 5 # set to zero to exclude
 show_intro: true
 intro: |
 
