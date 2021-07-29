@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am a Biomedical Engineering PhD Candidate at Johns Hopkins who creates computational tools to help better better understand and treat uterine disorders. I mentor local high school and university-level research projects, and I create programming focused on community-building and professional development for underrepresented students in STEM. <br /><br />
+As part of the Computational Design of Therapeutics Lab at Johns Hopkins, I create computational models of immune signaling and cell growth in healthy and diseased uterine tissues. Additionally, I am an MIT alumna (B.S., Bioengineering, 2017) and National Science Foundation Graduate Research Fellow. <br /><br />
 <i class="fas fa-laptop-code"></i> See below for more on my <b>Resumes</b> and <b>projects</b>. 
 
 

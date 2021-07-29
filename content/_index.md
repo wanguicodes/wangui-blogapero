@@ -1,7 +1,7 @@
 ---
 title: "Wangui Mbuguiro"
 subtitle: "Biomedical Engineer, PhD Candidate"
-description: "As part of the Computational Design of Therapeutics Lab at Johns Hopkins, I create computational models of immune signaling and cell growth in healthy and diseased uterine tissues. I am an MIT alumna (B.S., Bioengineering, 2017), National Science Foundation Graduate Research Fellow, and friendly neighborhood scientist."
+description: "I am a Biomedical Engineering PhD Candidate at Johns Hopkins who creates computational tools to help better better understand and treat uterine disorders. I mentor local high school and university-level research projects, and I create programming focused on community-building and professional development for underrepresented students in STEM."
 date: 2021-07-10T03:27:33-06:00
 images:
   - img/green_long_right.jpg
