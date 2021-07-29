@@ -34,7 +34,7 @@ enableEmoji = true
   favicon = "/img/wm-icon.ico"
   logo = "/img/wm-mark.png"
   #mainSections = ["blog", "project", "talk"]
-  mainSections = ["project","talk"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -119,33 +119,19 @@ enableEmoji = true
     title = "Overview of My Work"
     url = "/about/"
     weight = 1
-  #[[menu.header]]
-  #  name = "Blog"
-  #  title = "Blog"
-  #  url = "/blog/"
-  #  weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
     weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 3
+
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 2
+    weight = 1
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
