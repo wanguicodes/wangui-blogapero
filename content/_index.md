@@ -1,7 +1,7 @@
 ---
 title: "Wangui Mbuguiro"
 subtitle: "Biomedical Engineer, PhD Candidate"
-description: "I am a Biomedical Engineering PhD Candidate at Johns Hopkins who creates computational tools to help better better understand and treat uterine disorders. I mentor local high school and university-level research projects, and I create programming focused on community-building and professional development for underrepresented students in STEM."
+description: "I create computational and experimental tools to help better better understand and treat uterine disorders. I mentor local high school and university-level research projects, and I create programming focused on community-building and professional development for underrepresented students in STEM."
 date: 2021-07-10T03:27:33-06:00
 images:
   - img/green_long_right.jpg
