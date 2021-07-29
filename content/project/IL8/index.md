@@ -37,15 +37,13 @@ This project is being developed as part of my PhD (2017-Present), under the ment
 
 ---
 ## Presentations
-<b>2021 → ACM Conference on Bioinformatics, Computational Biology and Biomedicine</b>
+<b>2021 → ACM Conference on Bioinformatics, Computational Biology, and Biomedicine</b>
 <br />
+[<button type="button" name="button" class="btn">1-page paper</button>](ACM_abstract.pdf)
+[<button type="button" name="button" class="btn">poster</button>](ACM_poster.pdf)
+
 <iframe frameborder="0" scrolling="yes" width="320" height="240" src="ACM_poster.pdf"> </iframe>
   <iframe width="320" height="240" src="https://www.youtube.com/embed/ch05ddj6Bso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-file-pdf"></i> Abstract](ACM_abstract.pdf) 
-<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fas fa-newspaper"></i> Poster](ACM_poster.pdf)
-<br />
 
 
 ---
