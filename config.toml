@@ -1,4 +1,4 @@
-baseURL = "https://wangui.rbind.io"
+baseURL = "https://wangui.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Website of Wangui Mbuguiro"
@@ -31,10 +31,10 @@ enableEmoji = true
   orgName = "Wangui Mbuguiro"
   #orgLocal = " "
   description = "Website for engineering researcher, Wangui Mbuguiro"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/wm-icon.ico"
+  logo = "/img/wm-mark.png"
   #mainSections = ["blog", "project", "talk"]
-  mainSections = ["project","talk"]
+  mainSections = ["project"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -49,25 +49,26 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "forest"
+  theme = ""
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
   # the custom scss file must be in the assets/ folder
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
-  custom_theme = "" 
+  custom_theme = "wangui-hex" 
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  # customtextFontFamily = "Commissioner"
+  # customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  textFontFamily = "Avenir"
+  headingFontFamily = "Commissioner"
+
   
   # Social icons may appear on homepage and in site header or footer
   # Configure show/hide above - add as many as you like below
@@ -115,7 +116,7 @@ enableEmoji = true
 [menu]
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "Overview of My Work"
     url = "/about/"
     weight = 1
   #[[menu.header]]
@@ -128,11 +129,11 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 2
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Talks"
+#    title = "Talks"
+#    url = "/talk/"
+#    weight = 3
     
   # Configure footer  
   [[menu.footer]]
